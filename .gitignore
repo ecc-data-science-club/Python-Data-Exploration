@@ -1,1 +1,3 @@
+# this file is to prevent other files (like a python environment or API key) from being pushed to GitHub
+
 .venv/
