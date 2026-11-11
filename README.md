@@ -66,4 +66,4 @@ plt.show()
 
 1. **Run Notebook cells in order**: Each cell is its own isolated code and running that cell will only run the code inside. If your current cell is dependent on having created something or changed something in a previous cell, then they need to be run in order. 
 
-2. **Start each file by running the import cell**:
+2. **Start each file by running the import cell**
